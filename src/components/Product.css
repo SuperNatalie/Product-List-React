@@ -1,0 +1,14 @@
+#box {
+  border: solid grey 1px;
+  margin: 20px;
+  text-align: center;
+  width: 30vw;
+}
+
+img {
+  width: 30vw;
+}
+
+h2 {
+  font-size: 3vw;
+}
