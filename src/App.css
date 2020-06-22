@@ -1,6 +1,8 @@
 .productlistContainer {
-  display: flex;
+  display: grid;
   width: 100vw;
   justify-content: center;
   align-items: center;
+  grid-row: auto;
+  grid-column: auto;
 }
